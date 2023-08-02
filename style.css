@@ -1,7 +1,7 @@
 .rabotnik{
     display:block;
     height: 100px;
-    border-radius : 25%;
+    border-radius : 10%;
 }
 .logo{
     display: block;
@@ -25,5 +25,30 @@
 .menu{
     display: flex;
     justify-content: center;
+
+}
+.mobila{
+    display: block; 
+    height: 200px;
+    border-radius : 25%;
+    margin:0 auto;;
+}
+.billy{
+    display: block; 
+    height: 200px;
+    border-radius : 25%;
+    margin:0 auto;
+
+
+}
+.old{
+    display: block; 
+    height: 200px;
+    border-radius : 25%;
+    margin:0 auto;
+    margin-right: 50px;
+
+
+
 
 }
