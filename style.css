@@ -12,13 +12,13 @@
 .image {
     display: block; 
     height: 200px;
-    border-radius : 25%;
+    border-radius : 15%;
 }
 
 .wrapper{
     width: 1200px;
     margin: 0 auto;
-    border-radius : 25%;
+    border-radius : 15%;
 
 }
 
@@ -30,13 +30,13 @@
 .mobila{
     display: block; 
     height: 200px;
-    border-radius : 25%;
+    border-radius : 15%;
     margin:0 auto;;
 }
 .billy{
     display: block; 
     height: 200px;
-    border-radius : 25%;
+    border-radius : 15%;
     margin:0 auto;
 
 
@@ -44,7 +44,7 @@
 .old{
     display: block; 
     height: 200px;
-    border-radius : 25%;
+    border-radius : 15%;
     margin:0 auto;
     margin-right: 50px;
 
